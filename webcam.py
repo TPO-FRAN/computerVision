@@ -1,3 +1,6 @@
+# Diego Mau - Noviembre 2023
+# Detección de colores (rojo, azul, amarillo) en tiempo real usando OpenCV y una webcam.
+
 import cv2 as cv
 import numpy as np
 
